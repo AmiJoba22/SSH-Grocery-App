@@ -10,13 +10,9 @@ This folder does not include our UI/UX visualisation prototype. Which does not i
 # Team Members
 - Riming Chen
 	- Quality Control and Testing
-	- 2704419
 - Yan Lun Tang
   	- Database Engineer
-  	- 2445193
 - Amina Jobarteh
 	- Developer
-    - 2759138
 - Serinah
 	- Developer
-    - 2579826
