@@ -1,4 +1,5 @@
 # About
+Project Report: [PDF](https://drive.google.com/file/d/1McIxNtWUc-A8MKGCBQNIUZIwYMxPzMuq/view?usp=sharing)
 1. The Git Repo includes a git bundle which stored the whole repository we used during development.
 
 # What’t not included
