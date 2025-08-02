@@ -1,6 +1,14 @@
 # About
-Project Report: [PDF](https://drive.google.com/file/d/1McIxNtWUc-A8MKGCBQNIUZIwYMxPzMuq/view?usp=sharing)
-1. The Git Repo includes a git bundle which stored the whole repository we used during development.
+LI Software Engineering and Professional Practice 
+University of Birmingham Fall 2024
+
+What did we create?:
+A grocery app created with the following tech stack:
+JavaFX
+Java
+PostgreSQ
+
+Project Details & Report: [PDF](https://drive.google.com/file/d/1McIxNtWUc-A8MKGCBQNIUZIwYMxPzMuq/view?usp=sharing)
 
 # What’t not included
 This folder does not include our UI/UX visualisation prototype. Which does not include backend. This prototype is available via [Sketch](https://sketch.com/s/64b97842-91cf-4b57-9855-0f36b8a8e38f).
