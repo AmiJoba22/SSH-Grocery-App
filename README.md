@@ -14,7 +14,7 @@ What did we create?:
 - This folder does not include our UI/UX visualisation prototype. Which does not include backend. This prototype is available via [Sketch](https://sketch.com/s/64b97842-91cf-4b57-9855-0f36b8a8e38f).
 
 ## Known Issues
-- If you are login via GUI, make sure you enter Short ID when login instead of username. Short ID is generated with provided username.
+- If you login via GUI, make sure you enter Short ID when login instead of username. Short ID is generated with provided username.
 
 # Team Members
 - Riming Chen
