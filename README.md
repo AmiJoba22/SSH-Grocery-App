@@ -2,7 +2,7 @@
 - LI Software Engineering and Professional Practice 
 - University of Birmingham Fall 2024
 
-- What did we create?:
+What did we create?:
 - A grocery app created with the following tech stack:
      - JavaFX
      - Java
