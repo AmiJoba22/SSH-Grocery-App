@@ -1,12 +1,13 @@
 # About
 LI Software Engineering and Professional Practice 
+
 University of Birmingham Fall 2024
 
 What did we create?:
-A grocery app created with the following tech stack:
-JavaFX
-Java
-PostgreSQ
+- A grocery app created with the following tech stack:
+     - JavaFX
+     - Java
+     - PostgreSQL
 
 Project Details & Report: [PDF](https://drive.google.com/file/d/1McIxNtWUc-A8MKGCBQNIUZIwYMxPzMuq/view?usp=sharing)
 
