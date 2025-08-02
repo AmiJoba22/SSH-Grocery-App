@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://git.cs.bham.ac.uk/rxc328/ssh-grocery.git
+	fetch = +refs/*:refs/*
+	mirror = true
