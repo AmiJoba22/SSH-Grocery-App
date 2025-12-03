@@ -12,7 +12,7 @@ What did we create?:
 - Project Details & Report: [PDF](https://drive.google.com/file/d/1McIxNtWUc-A8MKGCBQNIUZIwYMxPzMuq/view?usp=sharing)
 
 # What’t not included
-- This folder does not include our UI/UX visualisation prototype. Which does not include backend. This prototype is available via [Sketch](https://sketch.com/s/64b97842-91cf-4b57-9855-0f36b8a8e38f).
+- This folder does not include our UI/UX visualisation prototype. Which does not include backend.
 
 ## Known Issues
 - If you login via GUI, make sure you enter Short ID when login instead of username. Short ID is generated with provided username.
