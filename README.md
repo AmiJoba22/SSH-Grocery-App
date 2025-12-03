@@ -1,3 +1,4 @@
+# Student Smart Homes - Grocery App 
 # About
 - LI Software Engineering and Professional Practice 
 - University of Birmingham Fall 2024
