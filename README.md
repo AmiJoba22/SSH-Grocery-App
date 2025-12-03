@@ -41,7 +41,7 @@ implement the speciEic tables mentioned in the EDR for the database with Postgre
 
 - Java
 - PostgreSQL
-- JavaFx
+- JavaFX
 
 # My Role
 
