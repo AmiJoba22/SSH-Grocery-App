@@ -1,7 +1,9 @@
 # Student Smart Homes - S.S.H. Grocery App
 
 LI Software Engineering and Professional Practice
+
 University of Birmingham Fall 2024
+
 [Full Report](Report.pdf)
 
 # Team Members
