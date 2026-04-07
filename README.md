@@ -17,7 +17,7 @@ University of Birmingham Fall 2024
 - Amina Jobarteh
   - Developer
 
-- Serinah
+- Serinah Wahid 
   - Developer
 
 # About
