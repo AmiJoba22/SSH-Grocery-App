@@ -45,7 +45,7 @@ implement the speciEic tables mentioned in the EDR for the database with Postgre
 
 # My Role
 
-- Developed menu & checkout features with Java. View [Menu.Java](Menu.java) file for menu code. [Order.Java](Order.java) will have comment as
+- Developed menu & checkout features with Java. View [Menu.Java](ssh-grocery/SSH-General/src/main/java/org/example/Menu.java) file for menu code. [Order.Java](Order.java) will have comment as
   '//Amina' to show my checkout feature contributions.
 
 ## Known Issues
